@@ -51,3 +51,21 @@ To ensure smooth operation and ease of customization, use the following naming c
 - Use the format `frame_0001.jpg`, `frame_0002.jpg`, ..., `frame_XXXX.jpg` where `XXXX` is a zero-padded number representing the frame sequence.
 - Place all frame images in the `frames/` directory.
 
+Example
+
+
+## Folder Structure
+
+
+- `frames/` - Contains the image frames used for the animation.
+- `index.html` - The main HTML file that runs the animation.
+- `script.js` - Contains the JavaScript code to handle the frame scrolling.
+- `style.css` - Optional CSS file for styling.
+
+## Contributing
+
+Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
